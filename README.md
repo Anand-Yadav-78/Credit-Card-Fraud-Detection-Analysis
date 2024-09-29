@@ -4,7 +4,8 @@
 This project aims to detect fraudulent credit card transactions using machine learning techniques. Fraudulent transactions pose a significant risk to financial institutions and consumers alike, leading to substantial financial losses. The goal of this project is to develop a predictive model that can accurately classify transactions as legitimate or fraudulent, thereby helping to mitigate fraud-related risks.
 
 <H2><b>Features:</b></H2>
-<b>Data Loading:</b>
+
+<H3><b>Data Loading:</b></H3>
 Successfully loaded the credit card dataset for analysis.
 
 <H3><b>Data Exploration:</b></H3>
@@ -13,7 +14,7 @@ Obtained a summary of the dataset, including data types and non-null counts.
 Checked for missing values in the dataset.
 Analyzed the distribution of legitimate and fraudulent transactions.
 
-<H3><b>ata Separation:</b></H3>
+<H3><b>Data Separation:</b></H3>
 Separated the dataset into legitimate and fraudulent transactions for focused analysis.
 Printed the shapes of both transaction classes for comparison.
 
